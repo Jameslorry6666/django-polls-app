@@ -26,3 +26,4 @@ Thumbs.db
 # Static files
 staticfiles/
 mediafiles/
+*.pyce
