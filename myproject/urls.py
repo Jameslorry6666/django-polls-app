@@ -34,3 +34,4 @@ urlpatterns = [
     path('myapp/', include('myapp.urls')), #include myapp urls
     path('polls/', include('polls.urls')) #include polls urls
 ]
+
